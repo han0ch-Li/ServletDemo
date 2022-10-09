@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee
+http://xmlns.jcp.org/xml/ns/javaee/web-app_3_1.xsd"
+         version="3.1">
+
+
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!--配置web应用的初始化参数-->
+  <context-param>
+    <param-name>url</param-name>
+    <param-value>jdbc:mysql://localhost:3306/mybatis</param-value>
+  </context-param>
+
+  <servlet>
+    <servlet-name>Context</servlet-name>
+    <servlet-class>ContextDemo</servlet-class>
+  </servlet>
+  <servlet>
+  <servlet-name>GetContext</servlet-name>
+  <servlet-class>GetContextServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Parameters</servlet-name>
+    <servlet-class>ServletParameters</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Dispatcher</servlet-name>
+    <servlet-class>DispatcherDemo</servlet-class>
+  </servlet>
+  <servlet>
+    <servlet-name>Properties</servlet-name>
+    <servlet-class>ServletProperties</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Context</servlet-name>
+    <url-pattern>/Context</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+  <servlet-name>GetContext</servlet-name>
+  <url-pattern>/GetContext</url-pattern>
+</servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Parameters</servlet-name>
+    <url-pattern>/Parameter</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Dispatcher</servlet-name>
+    <url-pattern>/Dispatcher</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>Properties</servlet-name>
+    <url-pattern>/Properties</url-pattern>
+  </servlet-mapping>
+
+</web-app>
