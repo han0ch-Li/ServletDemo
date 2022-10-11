@@ -9,55 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75155fb1-84cc-459a-8a51-afc2cfdd46bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/java/ContextDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/java/DispatcherDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/java/GetContextServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/java/ServletParameters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/java/ServletProperties.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/resources/db.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Context/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookie/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookie/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookie/src/main/java/CookieDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookie/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cookie/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/src/main/java/loginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/src/main/webapp/home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/Java/FileDownload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/Java/RedirectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/Java/Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/resources/eva.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/webapp/Home.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Response/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/java/SessionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/java/SessionDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/java/SessionDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/java/pojo/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServletError.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ServletHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-    </list>
+    <list default="true" id="75155fb1-84cc-459a-8a51-afc2cfdd46bc" name="Changes" comment="1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +51,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "C:/Users/89217/.m2/repository/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.jar",
+    "last_opened_file_path": "D:/Code/JavaCode/JavaSE/Servlet/ServletDemo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -230,7 +182,16 @@
       <workItem from="1665150145009" duration="6164000" />
       <workItem from="1665215226567" duration="5081000" />
       <workItem from="1665306665239" duration="2024000" />
+      <workItem from="1665309587415" duration="42000" />
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1665309603136</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665309603136</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,5 +207,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
 </project>
